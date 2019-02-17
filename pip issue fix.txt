@@ -1,0 +1,21 @@
+python -m pip install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
+
+1) Multinomial vs gausian classification
+2) TFidfvectorized
+3) make_pipeline
+
+
+--------SuperVised Learning--------------
+1) Decision Tree - Done
+2) Linear Regression - Done
+3) Logistic Regression - Done
+4) Naive Bayes - Done
+5) KNN - Done
+6) SVM - Done
+7) Random Forest - Done
+
+-----------UnsuperVised Learning---------
+
+1) K – means clustering
+
+--------------TensorFlow-----------------
